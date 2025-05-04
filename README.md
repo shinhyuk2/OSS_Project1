@@ -6,28 +6,28 @@
 
 아래는 이 프로그램의 기능설명입니다.
 
-Search player stats by name
+1.Search player stats by name
 선수 이름으로 팀, 나이, WAR, HR, BA를 조회
 
-List top 5 players by SLG
+2.List top 5 players by SLG
 SLG 기준 상위 5명의 선수 출력 (규정 타석 이상)
 
-Analyze team stats
+3.Analyze team stats
 특정 팀의 평균 나이, 총 홈런 수, 총 타점 출력
 
-Compare by age groups
+4.Compare by age groups
 연령 그룹별로 SLG 기준 상위 5명 출력
 Group A: 나이 < 25
 Group B: 나이 25~30
 Group C: 나이 > 30
 
-Search by conditions
+5.Search by conditions
 홈런 수, 타율 기준을 설정해 조건을 만족하는 선수 목록 출력
 
-Generate performance report
-
+6.Generate performance report
 팀의 전체 선수 성적 테이블과 총 선수 수를 포맷에 맞게 출력
-8. Quit
+
+7. Quit
 종료
 
 실행시에 반드시 같은 디렉토리에 csv 파일이 있어야합니다.
